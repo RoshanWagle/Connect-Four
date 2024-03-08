@@ -1,3 +1,12 @@
+/*	
+ * ConnectFour.java
+ * 
+ * A file for game called Connect Four. Here 'R' stands for Red and 'Y' stands for yellow which simply indicate two players as Red and Yellow.
+  This program works in every condition either that's vertical , horizontal, forward or backward . A GUi based game made using JavaFX.
+ *  
+       Roshan Wagle
+ */
+
 //Importing all the JavaFX libraries
 import java.util.Optional;
 import javafx.animation.Animation;
